@@ -4,7 +4,7 @@
             "imagen": "img/star-wars.png",
             "categoria": "Star Wars",
             "nombre": "Mug de Stormtrooper",
-            "precio": "30.000 COP",
+            "precio": "30.000",
             "descripcion": "Mug de Stormtrooper.",
             "id": "05b43d7f-adb4-4680-8563-51b67f2f2c15"
         },
@@ -12,7 +12,7 @@
             "imagen": "img/stars-wars-2.png",
             "categoria": "Star Wars",
             "nombre": "Lego Vader",
-            "precio": "30.000 COP",
+            "precio": "30.000",
             "descripcion": "Figura de acción de Lego.",
             "id": "28c3b35a-50c9-4575-8cfc-6c08e369f2cf"
         },
@@ -20,7 +20,7 @@
             "imagen": "img/stars-wars-3.png",
             "categoria": "Star Wars",
             "nombre": "Yoda",
-            "precio": "40.000 COP",
+            "precio": "40.000",
             "descripcion": "Figura de acción de Yoda.",
             "id": "bd6d1f37-5167-4ee8-aab3-a43ad4c9d614"
         },
@@ -28,7 +28,7 @@
             "imagen": "img/stars-wars-4.png",
             "categoria": "Star Wars",
             "nombre": "Soldado Stormtrooper",
-            "precio": "80.000 COP",
+            "precio": "80.000",
             "descripcion": "Figura de acción de Star Wars.",
             "id": "9c179df0-bb0e-4cac-bfd1-fd2f607f5597"
         },
@@ -36,7 +36,7 @@
             "imagen": "img/stars-wars-6.png",
             "categoria": "Star Wars",
             "nombre": "Vader",
-            "precio": "80.000 COP",
+            "precio": "80.000",
             "descripcion": "Figura de acción de Vader.",
             "id": "51ba4940-299c-4ed3-ab04-37ea5023f027"
         },
@@ -44,7 +44,7 @@
             "imagen": "img/consola.png",
             "categoria": "Consolas",
             "nombre": "Mando de Xbox",
-            "precio": "230.000 COP",
+            "precio": "230.000",
             "descripcion": "Mando de consola Xbox.",
             "id": "fae619bd-388d-4a85-837d-946bfaa3f9f8"
         },
@@ -52,7 +52,7 @@
             "imagen": "img/consola-2.png",
             "categoria": "Consolas",
             "nombre": "Playstation 5",
-            "precio": "3.198.000 COP",
+            "precio": "3.198.000",
             "descripcion": "Playstation 5 en color azul + 1 mando.",
             "id": "7fb17db6-7523-413d-9b4e-521d059be2f4"
         },
@@ -60,57 +60,49 @@
             "imagen": "img/consola-3.png",
             "categoria": "Consolas",
             "nombre": "Nintendo",
-            "precio": "200.000 COP",
+            "precio": "200.000",
             "descripcion": "Nintendo de coleción.",
             "id": "55586a04-7fb6-446d-bc2f-f806e547cc7b"
         },
         {
-            "imagen": "img/diverso.png",
-            "categoria": "Diversos",
-            "nombre": "Camiseta de Atari",
-            "precio": "40.000 COP",
-            "descripcion": "Camiseta de Atari.",
-            "id": "fdb3b5d3-fe4a-4011-8936-92cb7f53b7b7"
-        },
-        {
-            "imagen": "img/stars-wars-5.png",
-            "categoria": "Star Wars",
-            "nombre": "Baby Yoda",
-            "precio": "30000",
-            "descripcion": "Figura de acción de Star Wars.",
-            "id": "8687d280-ba12-442e-9180-e3a4cc98e96a"
-        },
-        {
             "imagen": "img/consola-4.png",
             "categoria": "Consolas",
-            "nombre": "Control Nintendo",
-            "precio": "120000",
-            "descripcion": "Controles para Nintendo Switch.",
-            "id": "ee025d5f-9029-4c1d-8f9a-15845cf1be49"
+            "nombre": "Mandos de Nintendo Switch",
+            "precio": "200.000",
+            "descripcion": "Mandos de Nintendo Switch en color rojo y azul..",
+            "id": "fdb3b5d3-fe4a-4011-8936-92cb7f53b7b7"
         },
         {
             "imagen": "img/consola-5.png",
             "categoria": "Consolas",
             "nombre": "Xbox Serie X",
-            "precio": "4000000",
-            "descripcion": "Xbox serie X en color negro.",
-            "id": "3c810566-c2ef-4d48-a400-2848b2cf6e1e"
+            "precio": "3.389.900",
+            "descripcion": "Consola Xbox serie X en color negro.",
+            "id": "8687d280-ba12-442e-9180-e3a4cc98e96a"
         },
         {
             "imagen": "img/consola-6.png",
             "categoria": "Consolas",
-            "nombre": "Gameboy",
-            "precio": "120000",
-            "descripcion": "Gameboy Color transparente.",
-            "id": "e21c26cb-68cc-4ef4-9906-7cd4dc96be37"
+            "nombre": "Gameboy Color",
+            "precio": "857.000",
+            "descripcion": "Gameboy Color terminado transparente.",
+            "id": "ee025d5f-9029-4c1d-8f9a-15845cf1be49"
+        },
+        {
+            "imagen": "img/diverso.png",
+            "categoria": "Diversos",
+            "nombre": "Camiseta de Atari",
+            "precio": "40.000",
+            "descripcion": "Camiseta de Atari con estampado en color Beige.",
+            "id": "3c810566-c2ef-4d48-a400-2848b2cf6e1e"
         },
         {
             "imagen": "img/diverso-2.png",
             "categoria": "Diversos",
-            "nombre": "Camiseta NES 1985",
-            "precio": "30000",
-            "descripcion": "Camiseta manga larga de NES 1985.",
-            "id": "78cc6d45-1f87-4452-a658-4772b2d92f39"
+            "nombre": "Camiseta de NES 1985",
+            "precio": "40.000",
+            "descripcion": "Camiseta de consola NES en color gris.",
+            "id": "e21c26cb-68cc-4ef4-9906-7cd4dc96be37"
         },
         {
             "imagen": "img/diverso-3.png",
@@ -137,12 +129,12 @@
             "id": "25669c61-ead8-4223-9c2c-c6062fca6880"
         },
         {
-            "imagen": "img/diverso-3.png",
+            "imagen": "img/diverso-6.png",
             "categoria": "Diversos",
-            "nombre": "Producto prueba",
-            "precio": "000000",
-            "descripcion": "Ninguna, ninguna",
-            "id": "fa95ffa0-bd90-441e-9fb1-46a98eb1803f"
+            "nombre": "Peluche Pikachu",
+            "precio": "100.000",
+            "descripcion": "Peluche motivo Pikachu.",
+            "id": "25669c61-ead8-4223-9c2c-c6062fca6880"
         }
     ],
     "perfil": [
